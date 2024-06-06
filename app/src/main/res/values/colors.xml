@@ -1,0 +1,8 @@
+<!-- res/values/colors.xml -->
+<resources>
+    <color name="button_bg_color">#FF4081</color>
+    <color name="button_text_color">#FFFFFF</color>
+    <color name="hint_text_color">#9E9E9E</color>
+    <color name="background_color">#AE9A9A</color>
+    <color name="primaryColor">#525D9C</color>
+</resources>

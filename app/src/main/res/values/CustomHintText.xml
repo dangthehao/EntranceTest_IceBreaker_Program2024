@@ -1,0 +1,13 @@
+<resources>
+    <!-- Base application theme -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here -->
+    </style>
+
+    <!-- Custom hint text style -->
+    <style name="CustomHintText">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/hint_text_color</item>
+
+    </style>
+</resources>
